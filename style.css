@@ -19,7 +19,7 @@ header > h1 {
 }
 
 body{
-    background-image:  url("./pattern.png"); 
+    background-color: olive; 
 }
 
 .main{
@@ -34,7 +34,7 @@ body{
 
 .badge{
     display: block;
-    background-color: #e66357;
+    background-color: violet;
     color: #fff;
     text-transform: uppercase;
     font-weight: 600;
@@ -46,6 +46,7 @@ body{
     transform: translateY(-50%);
 }
 .clock {
+    color: rgb(12, 12, 83);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 400;
     height: 100%;
